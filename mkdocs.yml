@@ -2,8 +2,3 @@ site_name: OpenCoMAP
 
 theme:
   name: readthedocs
-
-markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.superfences
